@@ -1,5 +1,6 @@
 #! /bin/bash
 
+PATH=$PATH:/bin
 LXCFS="/var/lib/lxc/lxcfs"
 LXCFS_ROOT_PATH="/var/lib/lxc"
 
